@@ -26,14 +26,15 @@ A Python data analysis project that tracks and visualizes the global spread of C
 ---
 
 ## 🚀 How to Run the Project
-
-### 1. Clone the Repository
 ```bash
+#### 1. Clone the Repository
+
 git clone https://github.com/your-username/covid-data-tracker.git
 cd covid-data-tracker
 
 ### 2. Install Required Libraries
 Run the following command to install the necessary libraries:
+
 pip install pandas numpy matplotlib seaborn plotly
 
 ### 3. Run the Tracker
